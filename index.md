@@ -1,8 +1,5 @@
-## github pages
-markdown markdown markdown markdown markdown
-what is markdown markdown markdown markdown
-
-mrkdown
+## index title
+this is some markdown below the index title
 
 # Header 1
 ## Header 2
@@ -10,7 +7,4 @@ mrkdown
 
 - bulleted
 - list
-- list
-- list
-- kist
-- ksit
+- here
