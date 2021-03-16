@@ -8,12 +8,4 @@ we probably want to organize the blog posts in some way or have different "serie
 - [Theory](https://alext180.github.io/test/)
 - [Praxis](https://alext180.github.io/test/)--->
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
-
 ## Alternatively, check out our blog posts in chronological order:
