@@ -3,4 +3,4 @@ title: welcome to communism
 description: this is a description
 minima:
   date_format: "%b %-d, %Y"
-  skin: dark
+  skin: solarized-dark
