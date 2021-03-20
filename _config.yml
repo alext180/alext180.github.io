@@ -4,3 +4,6 @@ description: this is a description
 minima:
   date_format: "%b %-d, %Y"
   skin: dark
+header_pages:
+  - about.md
+  - podcast.md
