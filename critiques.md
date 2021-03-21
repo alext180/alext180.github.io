@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /literature/
+permalink: /critiques/
 ---
 ## Critiques
 This is a page categorizing all of our "critique" blog posts
