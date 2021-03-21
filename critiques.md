@@ -1,9 +1,8 @@
 ---
 layout: page
-title:
-permalink: /critiques/
+permalink: /literature/
 ---
-##Critiques
+## Critiques
 This is a page categorizing all of our "critique" blog posts
 
 ## Check out our critique blog posts:
