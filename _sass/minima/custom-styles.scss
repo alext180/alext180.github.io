@@ -8,7 +8,8 @@
 }
 body {
 	font: 400 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", "Segoe UI Symbol", "Segoe UI Emoji", "Apple Color Emoji", Roboto, Helvetica, Arial, sans-serif;
-	color: #dddddd;
+	// font-family: sans-serif;
+    color: #dddddd;
     background-color: #222831;
 }
 a {
@@ -16,4 +17,15 @@ a {
 }
 a:visited {
 	color: #da9ff9;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+.img-logo{
+    display: block;
+    border: 6px solid #30475e;
+    padding: 4px;
+    border-radius: 4px;
+    width: 25%;
 }
