@@ -7,11 +7,13 @@ permalink: /about/
 <img class="img-logo" align="right" src="images/posadistlogo.png">
 ## Posadist
 I'm a first year Mathematics PhD student in Illinois studying geometric analysis and differential topology. I like to read and write about books in my free time.
+{: .bio}
 - [Twitter](https://twitter.com/cuckfapitalism1)
 <hr/>
 <img class="img-logo" align="right" src="images/wiiuwiiulogo.jpg">
 ## wiiuwiiu
 I'm a cringe cringe cringelord big poopy baby shit face. I like to shit myself in my free time and be fuckin cringe and stupid all the time.
+{: .bio}
 \
 &nbsp;
 - [Twitter](https://twitter.com/chirpin_tweetin)
@@ -19,6 +21,7 @@ I'm a cringe cringe cringelord big poopy baby shit face. I like to shit myself i
 <img class="img-logo" align="right" src="images/joneslogo.png">
 ## jones
 how do i spend my time? when i'm not web developing, i'm playing a video game. most of the time i'm playing video games.
+{: .bio}
 \
 &nbsp;
 - [Twitter](https://twitter.com/jonesindiana55)
