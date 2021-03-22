@@ -8,6 +8,6 @@ we probably want to organize the blog posts in some way or have different "serie
 ## Check out our blog series by category:
 - [Critiques](/critiques/)
 - [Literature](/literature/)
-- [Praxis](/praxis/)
+- [Other](/other/)
 
 ## Alternatively, check out our blog posts in reverse-chronological order below:
