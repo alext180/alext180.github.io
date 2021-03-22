@@ -31,3 +31,28 @@ img {
 .bio{
     width: 70%;
 }
+table th {
+	background-color: #30475e;
+	border: 1px solid #f05454;
+}
+table {
+	text-align: left;
+	color: #dddddd;
+	border-collapse: collapse;
+}
+table td {
+	border: 1px solid #696969;
+}
+.tag-list{
+    // border: 1px solid #f05454
+    height: 40px;
+    
+}
+.tag-text{
+    font-size: small;
+    color: #999999;
+}
+.tag-name-border{
+    // border: 1px solid #999999;
+    color:#f05454;
+}
