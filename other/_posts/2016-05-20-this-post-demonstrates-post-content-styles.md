@@ -1,12 +1,30 @@
 ---
 layout: post
 title: "This post demonstrates post content styles"
-categories: junk
+categories: other
 author:
 - Bart Simpson
 - Nelson Mandela Muntz
 meta: "Springfield"
 ---
+This is how you make a table of contents:
+# Table of contents
+1. [Introduction](#introduction)
+2. [Some paragraph](#paragraph1)
+    1. [Sub paragraph](#subparagraph1)
+3. [Another paragraph](#paragraph2)
+
+## This is the introduction <a name="introduction"></a>
+Some introduction text, formatted in heading 2 style gggg
+
+## Some paragraph <a name="paragraph1"></a>
+The first paragraph text ggggggg
+
+### Sub paragraph <a name="subparagraph1"></a>
+This is a sub paragraph, formatted in heading 3 style ggggg
+
+## Another paragraph <a name="paragraph2"></a>
+The second paragraph text gggggg
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
 

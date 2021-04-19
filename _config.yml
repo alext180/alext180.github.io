@@ -1,6 +1,9 @@
 theme: minima
-title: welcome to communism
-description: this is a description
+title: Radical Project
+description: To understand is to change, to go beyond oneself. - Sartre
 minima:
   date_format: "%b %-d, %Y"
   skin: dark
+header_pages:
+  - about.md
+  - podcast.md
