@@ -1,6 +1,7 @@
 Alex first blog post: on Sartre's conception of *the project*
 
-
+![image](images/table 1-1.png?raw=true)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NjQ4ODM3LC0yMDY0MzYyNDU1XX0=
+eyJoaXN0b3J5IjpbMTk5NjUyMDU5NywxNjg2NDg4MzcsLTIwNj
+QzNjI0NTVdfQ==
 -->
