@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-In *Questions de méthode*, Jean Paul Sartre writes
+<!---In *Questions de méthode*, Jean Paul Sartre writes
 
 > Man defines himself by his project. This material being perpetually goes beyond the condition which is made for him; he reveals and determines his situation by transcending it in order to objectify himself - by work, action, or gesture.
 
@@ -12,7 +12,7 @@ Here ``project'' is used in a technical sense, in reference to a perpetual trans
 
 > To understand is to change, to go beyond oneself. This reading did not change me. By contrast, what did begin to change me was the reality of Marxism, the heavy presence on my horizon of the masses of workers, an enormous, sombre body which lived Marxism, which practiced it, and which at a distance exercised an irresistible attraction on petit bourgeois intellectuals.
 
-So in our desire to go beyond ourselves, to understand the world and to change it, we have created this *radical project*, a perpetual development of subjectivity by our work and praxis. If you have any thoughts, feedback, or criticism, feel free to send us a message on Twitter!
+So in our desire to go beyond ourselves, to understand the world and to change it, we have created this *radical project*, a perpetual development of subjectivity by our work and praxis. If you have any thoughts, feedback, or criticism, feel free to send us a message on Twitter!-->
 
 ## Authors
 <hr/>
