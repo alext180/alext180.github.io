@@ -16,7 +16,7 @@ So in our desire to go beyond ourselves, to understand the world and to change i
 
 ## Authors
 <hr/>
-<img class="img-logo" align="right" src="images/posadistlogo.png">
+<img class="img-logo" align="right" src="images/posadistlogo.PNG">
 ## Posadist
 I'm a first year Mathematics PhD student in Illinois studying geometric analysis and differential topology. I like to read and write about books in my free time.
 {: .bio}
