@@ -6,20 +6,25 @@ categories: other
 author:
 - Posadist
 ---
+# Table of contents
 
-[TOC]
+1. [Sartre's notion of the project](#first)
+2. [The blog as a radical tool](#second)
+3. [Freire's problem-posing pedagogy as a model for the dialogic blog](#third)
+4. [Marcuse's contemplative culture-hero as a symbol of radical reflection](#fourth)
+5. [Bibliography](#fifth)
 
-### Sartre's notion of the project
+### Sartre's notion of the project <a name="first"></a>
 
-In Questions de méthode, Jean-Paul Sartre reflects on his assigned readings on Marx, Hegel, Aristotle, etc. at the University of Paris during the 1920s,
+In *Questions de méthode*, Jean-Paul Sartre reflects on his assigned readings on Marx, Hegel, Aristotle, etc. at the University of Paris during the 1920s,
 
 > I found everything perfectly clear, and I really understood absolutely nothing. To understand is to change, to go beyond oneself. This reading did not change me. By contrast, what did begin to change me was the *reality* of Marxism, the heavy presence on my horizon of the masses of workers, an enormous, sombre body which *lived* Marxism, which practiced it, and which at a distance exercised an irresistible attraction on petit bourgeois intellectuals.
 
-The first time I read this passage it struck me as a particularly powerful expression of the conception of philosophy as a fundamentally practical activity (reminiscent of both Marx and Lenin), but what I found even more striking was Sartre's appeal to the process of "going beyond oneself". This kind of subjectivity in motion turns out to be a crucial element of Sartre's existential psychology, and later in Questions de méthode he elaborates on the idea, formalizing it in the notion of *the project.* 
+The first time I read this passage it struck me as a particularly powerful expression of the conception of philosophy as a fundamentally practical activity (reminiscent of both Marx and Lenin), but what I found even more striking was Sartre's appeal to the process of "going beyond oneself". This kind of subjectivity in motion turns out to be a crucial element of Sartre's existential psychology, and later in *Questions de méthode* he elaborates on the idea, formalizing it in the notion of *the project.* 
 
-Asserting the need for a philosophy of revolutionary action, Marx famously wrote that, "Philosophers have only interpreted the world in various ways. The point, however, is to change it." On the other hand, Lenin says, "There can be no revolutionary praxis without revolutionary theory," and thus we discover a dialectical relationship between *theory* and *praxis*: each one turns back upon the other, clarifying it in an endless process of becoming. 
+Asserting the need for a philosophy of revolutionary action, Marx famously wrote that, "Philosophers have only interpreted the world in various ways. The point, however, is to change it." On the other hand, Lenin says, "Without revolutionary theory there can be no revolutionary movement" and thus we discover a dialectical relationship between *theory* and *praxis*: each one turns back upon the other, clarifying it in an endless process of becoming. 
 
-Of course, from the perspective of historical materialism, only a theory which takes into account the real material conditions and social relations of the historical moment could ever hope to inform a useful revolutionary praxis; however, it is man who creates his material conditions and arranges the social relations he shares with other men on the basis of prior conditions - we recall the question from the Theses on Feuerbach about "who educates the educator?"
+Of course, from the perspective of historical materialism, only a theory which takes into account the real material conditions and social relations of the historical moment could ever hope to inform a useful revolutionary praxis; however, it is man who creates his material conditions and arranges the social relations he shares with other men on the basis of prior conditions - we recall the question from the *Theses on Feuerbach* about "who educates the educator?"
 
 All of a sudden, a philosophy of individual existence enters the stage in the theater of collective action, and here Sartre's notion of *the project* plays a lead role. Simply put, the individual's project is their chosen way of being, expressed through their praxis; that is, through their real activity (collective or otherwise) in understanding and organizing their material conditions and social relations in the light of some end. So technically speaking there is no "the project" per se, rather there are *projects*, but Sartre uses the phrase in its full generality to refer to the way individuals reflect upon their conditions to clarify their philosophy in the first instance and then transform those very conditions in the second. 
 
@@ -53,13 +58,13 @@ If it is true that man locates himself in the totality of history through action
 
 <!--Naturally, we find in the Sartrean project elements of both Marxist and existentialist philosophy.-->
 
-### The blog as a radical tool
+### The blog as a radical tool <a name="second"></a>
 
 There's an endless depth available for discussion here, and this note isn't supposed to be an exhaustive or comprehensive analysis of the notion of the project within the context of Sartre's existential psychology and Marxist philosophy. Instead, what I want to discuss is how the ideas underlying the Sartrean project can serve as the motivating schemata for conceiving of a blog as an effective instrument in developing a radical Sartrean project -- a project of revolt -- if this is indeed what one wants to make of their project. Since a blog mostly involves writing about stuff, this discussion will necessarily entail an elaboration of the connections between writing, reflection, and the project. So we ask Sartre: how does the individual as reader and writer factor into the project?
 
 > The writer neither foresees nor conjectures; he *projects* ... the writer meets everywhere only *his* knowledge, *his* will, *his* plans, in short, himself ... Thus, by speaking, I reveal the situation by my very intention of changing it; I reveal it to myself and to others in order to change it. I strike at its very heart, I transpierce it, and I display it in full view; at present I dispose of it; with every word I utter, I involve myself a little more in the world, and by the same token I emerge from it a little more, since I go beyond it toward the future.
 
-In this passage Sartre vehemently reaffirms writing as an effective instrument for facilitating a radical praxis (somewhat unsurprisingly, considering his bias as a lifelong professional writer). Not only can writing be a valid part of the project he says, but by its very nature the process of writing necessarily becomes a part of the writer's project: in the very act of writing the writer *projects*, he reveals his situation in order to change it. In the activity of writing we also rediscover those same key elements of the project which Sartre identified in Questions de méthode: the process involves transcendence, going beyond the present situation and towards the future. You write in order to set up relations between things in the world, to project an abstraction of your own goals, desires, and objectives onto your creation, or ... <span style="color:red">???</span> 
+In this passage Sartre vehemently reaffirms writing as an effective instrument for facilitating a radical praxis (somewhat unsurprisingly, considering his bias as a lifelong professional writer). Not only can writing be a valid part of the project he says, but by its very nature the process of writing necessarily becomes a part of the writer's project: in the very act of writing the writer *projects*, he reveals his situation in order to change it. In the activity of writing we also rediscover those same key elements of the project which Sartre identified in *Questions de méthode*: the process involves transcendence, going beyond the present situation and towards the future. You write in order to set up relations between things in the world, to project an abstraction of your own goals, desires, and objectives onto your creation, or ... <span style="color:red">???</span> 
 
 When Steinbeck writes *The Grapes of Wrath* he strikes at the "individualist" heart of American conservatism in order to display in full view its intellectual impoverishment, through the plight of the Joad family he transpierces the contradictions inherent in capitalist economic organization. When Ayn Rand writes *Atlas Shrugged* she reflects upon the expropriation of her bourgeois family's private property during the Russian revolution, and manufactures a mythologized laissez-faire capitalism in order to vindicate the bourgeois antithesis of her trauma. Evidently some projects are more radical than others.
 
@@ -80,7 +85,7 @@ We will have to fill in the gaps ourselves. Recall that the project is expressed
 1. How can writing and discussion facilitate the process of going beyond oneself, and surpassing our present situation towards a future of liberation? Is it not sufficient to simply read a good article or book written by a Marxist, socialist, etc. and internalize the words on the pages?
 2. How can reflection facilitate the process of going beyond oneself, and surpassing our present situation towards a future of liberation?
 
-### Freire's problem-posing pedagogy as a model for the dialogic blog
+### Freire's problem-posing pedagogy as a model for the dialogic blog <a name="third"></a>
 
 We answer the first question by appealing to an analogy between the reader-writer and student-teacher dichotomies vis-à-vis Freire's conception of a radical pedagogy. Freire characterizes the form of institutionalized education prevailing in modern capitalist society as a "banking model of education" in which "a narrating Subject (the teacher)" deposits information into the "patient, listening objects (the students)" by means of a pedagogical model which speaks of reality as if it were "motionless, static, compartmentalized, and predictable." There is no communication; students merely receive, memorize, and repeat the instructions bestowed upon them by the teacher. This educational system, Freire says, perpetuates the oppression of marginalized peoples, the destruction of Knowledge and creativity, and the alienation of both the students and the teachers. Moreover, Freire argues that a radical pedagogy of liberation, one involving a dissolution of the contradictions inherent in the student-teacher relationship of the banking model, must be a kind of "problem-posing education". In *The Pedagogy of the Oppressed* Freire writes,
 
@@ -96,9 +101,9 @@ Freire delineates several crucial aspects of this dialogue which suggest to us t
 
 > Hopelessness is a form of silence, of denying the world and fleeing from it. The dehumanization resulting from an unjust order is not a cause for despair but for hope, leading to the incessant pursuit of the humanity denied by injustice.
 
-Reflecting on these ideas, we derive the foundations for a project of revolt. In general, we will always aim to convey a sense of humility, tones of hope faith in humanity, and always remain critical in our analysis -- we are in agreement with Marx when he says that our affair involves a "ruthless criticism of all that exists" -- in particular this means skepticism of every established doctrine, capitalist, socialist, or otherwise.
+Reflecting on these ideas, we derive the foundations for a project of revolt. In general, we will always aim to convey a sense of humility, tones of hope and faith in humanity, and always remain critical in our analysis -- we are in agreement with Marx when he says that our affair involves a "ruthless criticism of all that exists" -- in particular this means skepticism of every established doctrine, capitalist, socialist, or otherwise.
 
-### Marcuse's contemplative culture-hero as a symbol of radical reflection
+### Marcuse's contemplative culture-hero as a symbol of radical reflection <a name="fourth"></a>
 
 We answer the second question by appealing to Marcuse's radical interpretation of the Greek myths of the contemplative heroes Orpheus and Narcissus in *Eros and Civilization*. Searching Greek mythology for cultural heroes who symbolize a very different reality from the prevailing capitalist reality of ceaseless toil, productivity and progress through repression, Marcuse recalls the stories of Orpheus and Narcissus: Orpheus, the prodigal musician and poet of Thrace whose song "pacifies the animal world, reconciles the lion with the lamb and the lion with man," and Narcissus, who, in the mirror of the water, tries to grasp his own beauty, who bends over and the river of time and implores "Alas, when will Time cease its flight and allow this flow to rest?" 
 
@@ -120,6 +125,7 @@ Of course, writing and reflection cannot constitute the full extent of a truly r
 
 <!--Next refer to Freire problem-posing education, then talk about teacher-student as analogy with writer-reader, and talk about Sartre's implementation of "the project" in "what is literature?"-->
 
-### Bibliography
+### Bibliography <a name="fifth"></a>
 
-<span style="color:red">???</span> 
+<span style="color:red">my huge brain lm ao what the fuccck ???</span> 
+
