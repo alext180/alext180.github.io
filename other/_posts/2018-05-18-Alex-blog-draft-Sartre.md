@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: posadist other sartre philosophy
-title: The blog can be a radical tool in the Sartrean project
+title: "The blog as a radical tool in the Sartrean project"
 categories: other
 author:
 - Posadist
