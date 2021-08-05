@@ -138,7 +138,7 @@ David advocates for the socialization of housework without looking at the histor
 
 Further consider this [2020 Economic Policy Institute report](https://www.epi.org/publication/domestic-workers-chartbook-a-comprehensive-look-at-the-demographics-wages-benefits-and-poverty-rates-of-the-professionals-who-care-for-our-family-members-and-clean-our-homes/#chart1) on paid domestic workers in the US:
 
-![2020_epi_paid_domestic_workers](../../assets/2020_epi_paid_domestic_workers.png)
+![2020_epi_paid_domestic_workers](..\..\about\images\2020_epi_paid_domestic_workers.png)
 
 It turns out paid domestic workers are “among the most exploited workers in the world,” (Oxfam, Time to Care report) with much less coverage by labor laws and minimum wage protections. WfH feminists provide a historical materialist explanation for this phenomenon: capitalism usually appropriates this surplus labor for free and under conditions of domestic slavery, thus its market extensions are super-exploited as well. Whether the WfH struggle would improve the position of this sector of the working class, David does not say. 
 
